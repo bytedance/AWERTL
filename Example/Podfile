@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'AWERTL_Example' do
+  pod 'AWERTL', :path => '../'
+
+  target 'AWERTL_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

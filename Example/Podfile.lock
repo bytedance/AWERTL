@@ -1,0 +1,21 @@
+PODS:
+  - AWERTL (6.9.1.1):
+    - RSSwizzle
+  - RSSwizzle (0.1.0)
+
+DEPENDENCIES:
+  - AWERTL (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - RSSwizzle
+
+EXTERNAL SOURCES:
+  AWERTL:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AWERTL: 59ece0dc59d290086d6f3384e1a6f19e306e85f7
+  RSSwizzle: d561958f595028bfcef98c7d55c318b3878a61c6
+
+COCOAPODS: 1.6.1
